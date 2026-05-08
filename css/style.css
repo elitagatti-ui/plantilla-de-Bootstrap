@@ -1,0 +1,10 @@
+/* todo esto es para que mi footer este abajo desde la clase body y main :) */
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+main {
+  flex-grow: 1;
+}
